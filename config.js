@@ -7,12 +7,12 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['919060791616']
-global.OwnerNumber = ['919006765023']
-global.ownertag = ['919006765023']
-global.BotName = "chiku"
-global.packname = "chiku-bot"
-global.author = "By: Ayush"
+global.Owner = ['2250556933397']
+global.OwnerNumber = ['2250556933397']
+global.ownertag = ['2250556933397']
+global.BotName = "DARK BOT"
+global.packname = "𝐒𝐎𝐌𝐁𝐑𝐄 𝐃𝐀𝐄𝐌𝐎𝐍"
+global.author = "𝐓𝐎𝐗𝐈𝐂"
 global.OwnerName = "Ayush"
 global.BotSourceCode = "https://github.com/Ayush-pandey-u/Chiku-MD"
 global.SupportGroupLink = "https://chat.whatsapp.com/DYp7FwfL9xsKURihcdT0l8"
