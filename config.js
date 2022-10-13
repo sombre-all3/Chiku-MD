@@ -7,20 +7,20 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['2250556933397']
-global.OwnerNumber = ['2250556933397']
-global.ownertag = ['2250556933397']
+global.Owner = ['2250501110437']
+global.OwnerNumber = ['2250501110437']
+global.ownertag = ['2250501110437']
 global.BotName = "DARK BOT"
 global.packname = "𝐒𝐎𝐌𝐁𝐑𝐄 𝐃𝐀𝐄𝐌𝐎𝐍"
-global.author = "𝐓𝐎𝐗𝐈𝐂"
-global.OwnerName = "Ayush"
+global.author = ""
+global.OwnerName = "𝙅•𝙃𝘼𝘾𝙆"
 global.BotSourceCode = "https://github.com/Ayush-pandey-u/Chiku-MD"
 global.SupportGroupLink = "https://chat.whatsapp.com/DYp7FwfL9xsKURihcdT0l8"
 global.sessionName = "session"
 
 // Prefix //
 // 🎗don't change the prefix if you can change the prefix may be bot doesn't work properly//
-global.prefa = ['-'] 
+global.prefa = ['.'] 
 
 
 global.location = "bihar, India"
