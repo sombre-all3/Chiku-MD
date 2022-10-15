@@ -7,9 +7,9 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['2250501110437']
-global.OwnerNumber = ['2250501110437']
-global.ownertag = ['2250501110437']
+global.Owner = ['2250504160076']
+global.OwnerNumber = ['2250504160076']
+global.ownertag = ['2250504160076']
 global.BotName = "DARK BOT"
 global.packname = "𝐒𝐎𝐌𝐁𝐑𝐄 𝐃𝐀𝐄𝐌𝐎𝐍"
 global.author = ""
@@ -20,7 +20,7 @@ global.sessionName = "session"
 
 // Prefix //
 // 🎗don't change the prefix if you can change the prefix may be bot doesn't work properly//
-global.prefa = ['.'] 
+global.prefa = ['-'] 
 
 
 global.location = "bihar, India"
